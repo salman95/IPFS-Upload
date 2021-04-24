@@ -1,0 +1,14 @@
+{
+  "name": "ipfs-upload",
+  "version": "1.0.0",
+  "description": "Playing around with IPFS by adding a front and back end. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs-mini": "^1.1.5"
+  }
+}
